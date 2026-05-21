@@ -1,0 +1,1 @@
+ole.WriteLine("Total final: $" + totalFina

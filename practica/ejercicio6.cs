@@ -1,0 +1,1 @@
+//Simulador de Cajero: Pide saldo inicial, resta un retiro y muestra si el saldo restante es mayor a 0.
